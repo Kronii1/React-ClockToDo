@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.caf365e1.js",
-    "index.html": "/index.html",
-    "main.caf365e1.js.map": "/static/js/main.caf365e1.js.map"
+    "main.js": "/Kronii1/React-ClockToDo/static/js/main.19259d45.js",
+    "index.html": "/Kronii1/React-ClockToDo/index.html",
+    "main.19259d45.js.map": "/Kronii1/React-ClockToDo/static/js/main.19259d45.js.map"
   },
   "entrypoints": [
-    "static/js/main.caf365e1.js"
+    "static/js/main.19259d45.js"
   ]
 }
